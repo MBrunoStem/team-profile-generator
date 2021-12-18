@@ -1,0 +1,26 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "Generate your team info",
+  "main": "index.js",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^8.2.0"
+  },
+  "devDependencies": {
+    "jest": "^27.4.5"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MBrunoStem/team-profile-generator.git"
+  },
+  "author": "Mario Bruno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MBrunoStem/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/MBrunoStem/team-profile-generator#readme"
+}

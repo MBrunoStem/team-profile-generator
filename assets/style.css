@@ -1,0 +1,53 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    background-color: mediumvioletred;
+    /* text-align: center; */
+    height: 200px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+main {
+    display: flex;
+}
+
+.team-card {
+    margin: 2%;
+    border-radius: 5px;
+    box-shadow: black;
+    /* border-style: groove; */
+    width: 25%;
+    /* height: 25%; */
+    padding: 10px;
+    background-color: rgb(5, 168, 218);
+}
+
+h2, h3 {
+    padding: 2%;;
+    color: white;
+}
+
+ul {
+    margin: 2%;
+    /* border-style: groove; */
+    padding: 10px;
+    list-style: none;
+    background-color: white;
+    border-radius: 5px;
+}
+
+li {
+    border-style: groove;
+    border-radius: 5px;
+    margin: 2%;
+    padding: 2%;
+    color: white;
+    background-color: rgb(88, 83, 83)
+}
