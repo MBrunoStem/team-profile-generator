@@ -19,11 +19,6 @@ function init() {
                 name: "name",
                 message: "Enter name:"
             },
-            // {
-            //     type: "input",
-            //     name: "jobtitle",
-            //     message: "What is their job title?"
-            // },
             {
                 type: "input",
                 name: "jobid",
@@ -54,11 +49,6 @@ function init() {
                 name: "name",
                 message: "Enter name:"
             },
-            // {
-            //     type: "input",
-            //     name: "jobtitle",
-            //     message: "What is their job title?"
-            // },
             {
                 type: "input",
                 name: "jobid",
@@ -88,11 +78,6 @@ function init() {
                 name: "name",
                 message: "Enter name:"
             },
-            // {
-            //     type: "input",
-            //     name: "jobtitle",
-            //     message: "What is their job title?"
-            // },
             {
                 type: "input",
                 name: "jobid",

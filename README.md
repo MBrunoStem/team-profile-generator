@@ -4,6 +4,7 @@
 Use the command line to create an html page that renders a card for each of my team members based on my input.
         
 ## User Story
+```
 - WHEN I type 'node index.js' in the command line
 - THEN I am prompted with a series of questions to create a Manager card
 - WHEN I complete the Manager prompt
@@ -22,6 +23,7 @@ Use the command line to create an html page that renders a card for each of my t
 - THEN I can find their name, job title, id, email, and github
 - WHEN I view the Intern card
 - THEN I can find their name, job title, id, email, and school
+```
 
 ## Technologies Used
 - HTML
